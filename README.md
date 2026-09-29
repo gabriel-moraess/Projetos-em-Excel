@@ -1,52 +1,59 @@
-# 💰 Fluxo de Caixa em Excel
+# Excel Business Analytics Portfolio
 
-Planilha desenvolvida em **Microsoft Excel** para controle financeiro, permitindo registrar receitas e despesas, acompanhar contas a pagar e receber e visualizar indicadores financeiros por meio de dashboards.
+Portfólio de projetos desenvolvidos em **Microsoft Excel**, aplicando análise financeira, organização de dados, automação de cálculos e construção de dashboards.
 
-## ✨ Funcionalidades
+## Tecnologias e recursos
 
-- Registro de entradas e saídas
-- Controle de contas a pagar e receber
-- Acompanhamento de contas vencidas
-- Consolidação do fluxo de caixa
-- Dashboards financeiros com indicadores e gráficos
+* Microsoft Excel
+* Fórmulas
+* Tabelas dinâmicas
+* Validação de dados
+* Dashboards
+* Automatização de cálculos
+* Indicadores financeiros
 
-## 🛠️ Recursos utilizados
+## Projetos
 
-- Fórmulas do Excel
-- Tabelas dinâmicas
-- Dashboards
-- Validação de dados
-- Automatização de cálculos
+### Fluxo de Caixa
 
-## 🎯 Objetivo
+Planilha desenvolvida para controle financeiro, permitindo acompanhar receitas, despesas, contas a pagar, contas a receber e indicadores financeiros.
 
-Demonstrar habilidades em Excel, análise financeira, construção de dashboards e organização de dados para apoio à tomada de decisão.
+Principais recursos:
 
+* Registro de entradas e saídas
+* Controle financeiro
+* Acompanhamento de contas
+* Consolidação do fluxo de caixa
+* Dashboard financeiro
+* Indicadores e gráficos
 
-# 📦 Controle de Estoque Simplificado
+Arquivo:
 
-Planilha desenvolvida em **Microsoft Excel** para controlar entradas, saídas e saldo de produtos de forma prática e automatizada.
+`Fluxo de Caixa.xlsx`
 
-## ✨ Funcionalidades
+### Controle de Estoque Simplificado
 
-- Cadastro de produtos
-- Controle de entradas e saídas
-- Atualização automática do saldo
-- Alertas de estoque mínimo e máximo
+Planilha para controle de entradas, saídas e saldo de produtos.
 
-## 🛠️ Recursos utilizados
+Principais recursos:
 
-- Tabelas do Excel
-- Fórmulas (SE, SOMASE e SOMASES)
-- Referências estruturadas
+* Cadastro de produtos
+* Controle de entradas
+* Controle de saídas
+* Atualização automática de saldo
+* Alertas de estoque mínimo e máximo
 
-## 🎯 Objetivo
+Arquivo:
 
-Demonstrar conhecimentos em Excel, automação de planilhas e organização de dados aplicados ao controle de estoque.
+`Controle de Estoques Simplificado.xlsx`
 
-## 🚀 Melhorias futuras
+## Competências demonstradas
 
-- Dashboard gerencial
-- Indicadores de estoque
-- Integração com Power BI
-- Automação com VBA ou Python
+* Excel Avançado
+* Análise Financeira
+* Dashboards
+* Indicadores
+* Organização de dados
+* Automação de cálculos
+* Controle financeiro
+* Controle de estoque
